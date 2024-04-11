@@ -1,3 +1,7 @@
+
+![Screenshot 2024-04-11 044927](https://github.com/AltUser44/Typingprogram/assets/138399028/7c8944e0-a7c3-4bbb-b2fd-c0eb468b1469)
+
+
 This is a Typing Test Application written in Java to help users improve their typing skills through a dynamic and engaging interface.
 This application presents users with a series of sentences to type, tracking their typing speed and accuracy in real-time.
 It's a great tool to enhance their keyboard proficiency, for personal development, professional growth, or for a challenge.
