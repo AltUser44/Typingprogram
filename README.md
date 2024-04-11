@@ -13,3 +13,20 @@ It calculates and displays their typing speed in words per minute (WPM), offerin
 It also provides accuracy feedback; it changes the text field's color to reflect the user's typing accuracy green for correct keystrokes and red for errors,
 aiding users in identifying and correcting their mistakes.
 Additionally, when users surpass a predefined speed threshold of 100 WPM, a congratulatory message, is displayed for their achievements.
+
+
+--------------------------------------------------------
+# Typing Simulator
+
+Before you run the Typing Simulator, ensure you have the following installed:
+- Java Development Kit (JDK) 8 or later.
+
+You can check your Java version by running `java -version` in your command prompt.
+
+## Running the Application
+
+To run the Tree Simulator, follow these steps:
+
+1. Clone or download this repository to your local machine.
+
+2. Navigate to an IDE preferably IntelliJ, open the code in there, and run it.
